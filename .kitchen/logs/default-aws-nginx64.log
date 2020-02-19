@@ -1,0 +1,27 @@
+I, [2020-02-19T16:48:11.597740 #8016]  INFO -- default-aws-nginx64: -----> Destroying <default-aws-nginx64>...
+I, [2020-02-19T16:48:12.404114 #8016]  INFO -- default-aws-nginx64: Waited 0/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:48:17.637243 #8016]  INFO -- default-aws-nginx64: Waited 5/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:48:23.312356 #8016]  INFO -- default-aws-nginx64: Waited 10/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:48:28.973380 #8016]  INFO -- default-aws-nginx64: Waited 15/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:48:34.657695 #8016]  INFO -- default-aws-nginx64: Waited 20/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:48:40.344260 #8016]  INFO -- default-aws-nginx64: Waited 25/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:48:46.004832 #8016]  INFO -- default-aws-nginx64: Waited 30/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:48:51.680191 #8016]  INFO -- default-aws-nginx64: Waited 35/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:48:57.424462 #8016]  INFO -- default-aws-nginx64: Waited 40/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:03.104760 #8016]  INFO -- default-aws-nginx64: Waited 45/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:08.783164 #8016]  INFO -- default-aws-nginx64: Waited 50/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:14.470531 #8016]  INFO -- default-aws-nginx64: Waited 55/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:20.157243 #8016]  INFO -- default-aws-nginx64: Waited 60/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:25.827855 #8016]  INFO -- default-aws-nginx64: Waited 65/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:31.513892 #8016]  INFO -- default-aws-nginx64: Waited 70/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:37.225612 #8016]  INFO -- default-aws-nginx64: Waited 75/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:42.908338 #8016]  INFO -- default-aws-nginx64: Waited 80/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:48.619999 #8016]  INFO -- default-aws-nginx64: Waited 85/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:49:54.721509 #8016]  INFO -- default-aws-nginx64: Waited 90/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:50:00.399396 #8016]  INFO -- default-aws-nginx64: Waited 95/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:50:06.055406 #8016]  INFO -- default-aws-nginx64: Waited 100/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:50:11.771636 #8016]  INFO -- default-aws-nginx64: Waited 105/300s for instance <i-0b82f6a419b43df48> to terminate.
+I, [2020-02-19T16:50:12.457248 #8016]  INFO -- default-aws-nginx64: EC2 instance <i-0b82f6a419b43df48> destroyed.
+I, [2020-02-19T16:50:12.457410 #8016]  INFO -- default-aws-nginx64: Removing automatic security group sg-0720353684df7d123
+I, [2020-02-19T16:50:12.770818 #8016]  INFO -- default-aws-nginx64: Removing automatic key pair kitchen-defaultawsnginx64-yhalachev-YordansMacBookProloca-2020-02-19T14:44:46Z-q04xktd6
+I, [2020-02-19T16:50:12.966032 #8016]  INFO -- default-aws-nginx64: Finished destroying <default-aws-nginx64> (2m1.37s).
